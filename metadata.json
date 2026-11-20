@@ -1,0 +1,6 @@
+{
+  "name": "نجمة الحلقات",
+  "description": "ملخصات بسيطة وألعاب تفاعلية مسلية لحلقات اليوتيوب لبنات المرحلة الإعدادية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
